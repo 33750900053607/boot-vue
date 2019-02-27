@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.57cf0f6ac7c80e1f13e601908663de87.js"
+  "precache-manifest.ee4d2c1023cc47d7d8f4c4dc363fa417.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "boo-project"});
